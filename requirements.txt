@@ -1,0 +1,38 @@
+
+
+# Core requirements
+tensorflow==2.4.0
+keras==2.4.3
+
+# Data processing
+numpy==1.19.4
+pandas==1.2.0
+scikit-learn==0.24.2
+scipy==1.6.0
+
+# Image processing
+opencv-python==4.5.3.56
+Pillow==8.0.1
+
+# Visualization
+matplotlib==3.3.2
+seaborn==0.11.2
+plotly==4.14.3
+
+# Utilities
+tqdm==4.56.0
+pyyaml==5.4.1
+termcolor==1.1.0
+
+# Jupyter for notebooks
+jupyter==1.0.0
+ipykernel==5.3.4
+
+# Development
+black==20.8b1
+flake8==3.8.4
+pytest==6.2.2
+
+# Model visualization
+graphviz==0.16
+pydot==1.4.2
